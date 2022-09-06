@@ -1,0 +1,187 @@
+html {
+    font-size: 62, 5%;
+}
+
+.menuPrincipal ul li {
+    text-decoration: none;
+    display: flex;
+    flex-direction: row;
+    padding: 20px 20px;
+}
+
+.menuPrincipal {
+    background-color: rgb(246, 240, 232);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+
+
+}
+
+
+a {
+    color: black;
+
+}
+
+h2 {
+    margin-bottom: 60px;
+}
+
+
+
+
+ul li {
+    
+    padding: 20px 20px; 
+    list-style-type: none;
+    font-size: 25px;
+    text-decoration: underline
+    
+
+}
+
+
+
+
+.titulo3 {
+    text-align: center;
+    color: yellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+    
+}
+
+.titulo4 {
+    text-align: left;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+    
+}
+
+.fotoJean {
+    width: 500px;
+    height: 500px;
+}
+
+
+a {
+    text-decoration: none;
+}
+
+.foto4 {
+    width: 200px;
+    height: 200px;
+}
+
+.foto3 {
+    width: 200px;
+    height: 200px;
+}
+
+.foto5 {
+    width: 200px;
+    height: 200px;
+}
+
+.foto1 {
+    width: 200px;
+    height: 200px;
+}
+
+.foto6 {
+    width: 200px;
+    height: 200px;
+}
+
+.foto7 {
+    width: 200px;
+    height: 200px;
+}
+
+.img11 {
+    width: 50px;
+    height: 50px;
+    
+}
+
+.img10 {
+    width: 50px;
+    height: 50px;
+}
+
+
+.logoFb {
+    width: 50px;
+    height: 40px;
+}
+
+.whatSapp {
+    width: 50px;
+    height: 50px;
+    position: fixed;
+    right: 0;
+    bottom: 500px;
+}
+
+.fotoModelo {
+    width: 400px;
+    height: 500px;
+    display: block;
+    margin: auto;
+}
+
+.modelo2 {
+    width: 325px;
+    height: 500px;
+    
+}
+
+
+   
+
+.p1{
+    text-align: center;
+}
+
+
+.menu {
+    list-style: none;
+    font-size: 0;
+    display: flex;
+    justify-content:flex-end;
+    
+}
+
+li {
+    position: relative;
+   
+}
+
+.subMenu {
+    position: absolute;
+    display: none;
+}
+
+ul ul li {
+    display: block;
+    width: 100%;
+}
+
+ul li:hover ul {
+    display: block;
+}
+
+.boton1 {
+    display: flex;
+    flex-direction: row;
+    justify-items: center;
+}
+
+.logoPrincipal {
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-items: center;
+    flex-wrap: nowrap;
+}
